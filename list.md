@@ -1,6 +1,7 @@
 
-[Albinoni](https://open.spotify.com/album/1ibqZqB8MvWSNecv7nYAsu?si=q5xM-jPPTeCZIompeeVO4w)
-[Telemann](https://open.spotify.com/playlist/37i9dQZF1DX0bIPo2MlARC?si=6495e89761ed468e)
+- [Albinoni](https://open.spotify.com/album/1ibqZqB8MvWSNecv7nYAsu?si=q5xM-jPPTeCZIompeeVO4w)
+
+- [Telemann](https://open.spotify.com/playlist/37i9dQZF1DX0bIPo2MlARC?si=6495e89761ed468e)
 
 ```mermaid
 gantt
@@ -10,7 +11,7 @@ gantt
     %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
 
     section A section
-    Albinoni           :done,    des1, 2014-01-06,2014-01-08
+    Albinoni           :done,    des1, 2014,2019
     Active task               :active,  des2, 2014-01-09, 3d
     Future task               :         des3, after des2, 5d
     Future task2              :         des4, after des3, 5d
